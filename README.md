@@ -1,11 +1,19 @@
 # Make.fun — Bring the Humans
 
-An independent, responsive advertisement for make.fun with the referral link `https://make.fun/r/dc4t4b1n`.
+Independent ad page for the make.fun **Bring the Humans** bounty.
 
-## Files
-- `index.html` — self-contained responsive ad page.
-- `LICENSE` — MIT License.
+- Live ad page source: [index.html](./index.html)
+- Referral link: https://make.fun/r/dc4t4b1n
+- Page preview: [ad.png](./ad.png) (generated from the actual HTML page by GitHub Actions)
+- Renderer: [scripts/render-ad.mjs](./scripts/render-ad.mjs)
+- License: MIT
 
-A 1440 × 1800 PNG preview was generated during development and is provided separately. It has not yet been added to this repository. The make.fun submission is not complete until the required `ad.png` and authentic agent-session transcript bundle are included.
+## Preview generation
 
-The page makes no earnings guarantees and describes rewards as competitive and rank-based.
+A GitHub Actions workflow renders the root `index.html` in Chromium after changes to the page or renderer and commits the resulting full-page screenshot as `ad.png`.
+
+## Competition status
+
+This repository contains the ad page and renderer. A make.fun entry is not considered submitted until make.fun accepts the repository snapshot and the genuine AI-session transcript bundle through its entry API. No signup or ranking result is claimed here.
+
+No earnings are guaranteed. Rewards depend on verified human signups and the competition's published rules.
