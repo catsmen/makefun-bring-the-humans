@@ -4,7 +4,8 @@ An independent, responsive advertisement for make.fun with the referral link `ht
 
 ## Files
 - `index.html` — self-contained responsive ad page.
-- `ad.png` — preview image of the advertisement.
 - `LICENSE` — MIT License.
+
+A 1440 × 1800 PNG preview was generated during development and is provided separately. It has not yet been added to this repository. The make.fun submission is not complete until the required `ad.png` and authentic agent-session transcript bundle are included.
 
 The page makes no earnings guarantees and describes rewards as competitive and rank-based.
